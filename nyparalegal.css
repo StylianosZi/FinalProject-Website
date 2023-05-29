@@ -1,0 +1,61 @@
+
+nav img,
+nav .img-fluid {
+  width: 150px;
+}
+footer {
+  background-color: #04548c;
+  font-family: "Lato", sans-serif;
+  
+}
+
+footer a {
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.navbar {
+ background-color: white !important;
+ margin-left:10rem;
+ }
+
+
+@media (min-width: 992px) {
+ .mr-sm-1, .mx-sm-1{
+    margin-top: -19rem;
+    margin-left:-17rem;
+ }
+
+
+
+ @media (min-width: 992px) {
+    .nav-justified .nav-item {
+        margin-top: -11rem;
+    }
+   
+    
+@media (min-width: 992px) {
+        a.navbar-brand {
+           margin-left: -31rem;
+         }
+
+      
+
+     span.contact{padding-left:1rem; text-align: center;} 
+     span.PrivacyPolicy {padding-left:1rem;}
+     span.TermsofUse{padding-left:.5rem;}
+      
+   }
+}
+ }
+
+ p, ol{
+  margin: 2rem;
+}
+
+.form-check {
+  margin: 1rem;
+}
